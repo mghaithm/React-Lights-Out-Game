@@ -3,7 +3,7 @@
 
 ## Preview: 
 
-![grab-landing-page]()
+![grab-landing-page](preview.gif)
 
 ## To run the project:
 
