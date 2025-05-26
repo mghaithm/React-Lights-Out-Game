@@ -40,7 +40,6 @@ cd React-Lights-Out-Game
 npm install
 ```
 
-Or directly [download the ZIP file 📦](https://github.com/mghaithm/React-Lights-Out-Game/archive/refs/heads/main.zip) of the project.
 
 ## Running the App ▶️
 
